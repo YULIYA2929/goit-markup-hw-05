@@ -889,5 +889,9 @@ padding: 72px 24px 24px 24px;
   letter-spacing: 0.02em;
   color: var(--navy-blue-modal-cl);
   margin-bottom: 16px;
-  
+
+}
+
+.modal-div {
+  margin-bottom: 8px;
 }

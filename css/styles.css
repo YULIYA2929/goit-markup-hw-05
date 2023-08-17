@@ -993,3 +993,12 @@ transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 .input-coments {
   margin-bottom: 24px;
 }
+
+
+
+.modal-check:checked +modal-check-text span {
+  background-color: var(---ocean-cl);
+  border: none;
+  fill: var(--cloud-cl);
+
+}
